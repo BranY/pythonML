@@ -1,5 +1,6 @@
 # Machine-Learning
 
+https://github.com/Jack-Cherish/Machine-Learning.git
 * [我的博客](http://blog.csdn.net/c406495762 "悬停显示")<br>
 
 
